@@ -1,0 +1,7 @@
+import numpy as np
+help(np.array) 
+# it can be help to give inforamtion about this
+
+#output----
+# array(...)
+#   array(object, dtype=None, *, copy=True, order='K', subok=False, ndmin=0,  like=None)
